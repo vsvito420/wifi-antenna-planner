@@ -1,7 +1,7 @@
 # WLAN 3D Antennen Planer
 
 Interactive 3D WiFi antenna pattern visualizer for GitHub Pages.  
-Built for Vito's ASUS TUF WiFi 7 Tri-Band router (6 antennas, WiFi 7 Tri-Band).
+Built for WiFi 7 Tri-Band router (6 antennas, WiFi 7 Tri-Band).
 
 ## Features
 - Load OBJ models with textures (select folder in browser)
